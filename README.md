@@ -1,4 +1,3 @@
-# superhero-hunter
 <h1>Super Hero Hunter</h1>
 <h2>Link to the Project :
 <br>
