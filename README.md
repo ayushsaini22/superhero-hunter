@@ -12,7 +12,6 @@
 Superhero Hunter website is a plain website built upon vanilla <b>Java Script.</b><br> For the marvel and dc fanatics, just search any superhero and get the information about it. Also there is a favourite section which you can use to save your favourite heroes for fast access using local storage functionality.<br>
 API used : https://www.superheroapi.com/
 <br>
-API end points used : /search/superheroname, /id
 </p>
 <hr>
 <h2> Flow of Website : <h2>
